@@ -1,0 +1,15 @@
+/Users/derekjohnfoster/source/cs-folder/login-MC/bin/Debug/net5.0/login-MC.deps.json
+/Users/derekjohnfoster/source/cs-folder/login-MC/bin/Debug/net5.0/login-MC.runtimeconfig.json
+/Users/derekjohnfoster/source/cs-folder/login-MC/bin/Debug/net5.0/login-MC.runtimeconfig.dev.json
+/Users/derekjohnfoster/source/cs-folder/login-MC/bin/Debug/net5.0/login-MC.dll
+/Users/derekjohnfoster/source/cs-folder/login-MC/bin/Debug/net5.0/ref/login-MC.dll
+/Users/derekjohnfoster/source/cs-folder/login-MC/bin/Debug/net5.0/login-MC.pdb
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.csprojAssemblyReference.cache
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.AssemblyInfoInputs.cache
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.AssemblyInfo.cs
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.csproj.CoreCompileInputs.cache
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.dll
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/ref/login-MC.dll
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.pdb
+/Users/derekjohnfoster/source/cs-folder/login-MC/obj/Debug/net5.0/login-MC.genruntimeconfig.cache
